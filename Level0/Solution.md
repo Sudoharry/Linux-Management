@@ -11,3 +11,7 @@
 The password of level 0 is:
 
 ```bandit0```
+
+3) Screenshot
+
+![image](https://github.com/user-attachments/assets/350b8b8f-8209-4674-9a69-7479a91fe09c)
